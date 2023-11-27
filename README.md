@@ -1,3 +1,5 @@
+![결과](https://github.com/sykim0181/auto-complete/assets/83769339/3bb328a9-d59b-46f0-b758-60c671213098)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
